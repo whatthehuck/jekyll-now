@@ -9,15 +9,7 @@ title: Blogging Like a Hacker
 ##### 一种用于在统计数据库中形式化隐私的一种框架，用来防止去匿名化的技术。
 
 #### 邻近数据集
-对于两个数据集
-
-\begin{equation}
- D
-\end{equation}
-
-和
-$D'$
-，记它们的对称差为$D\Delta D'$，如果$\mid D\Delta D' \mid=1$则$D'$称为$D$的临近数据集。
+对于两个数据集$D$和$D'$，记它们的对称差为$D\Delta D'$，如果$\mid D\Delta D' \mid=1$则$D'$称为$D$的临近数据集。
 
 #### 全局敏感度和局部敏感度
 ##### 1.全局敏感度：
