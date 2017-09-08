@@ -8,7 +8,7 @@ title: Blogging Like a Hacker
 
 #### 邻近数据集
 对于两个数据集
-$ D $
+![equation]{$ D $}
 和
 $D'$
 ，记它们的对称差为$D\Delta D'$，如果$\mid D\Delta D' \mid=1$则$D'$称为$D$的临近数据集。
