@@ -85,3 +85,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: true
