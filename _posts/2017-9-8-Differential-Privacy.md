@@ -5,8 +5,6 @@ tags:
 mathjax: true
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 ### 差分隐私定义：
 ##### 一种用于在统计数据库中形式化隐私的一种框架，用来防止去匿名化的技术。
 
