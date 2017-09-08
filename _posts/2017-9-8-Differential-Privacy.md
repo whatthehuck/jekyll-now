@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Blogging Like a Hacker
+tags:
+mathjax: true
 ---
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
